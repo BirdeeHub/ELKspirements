@@ -1,0 +1,2 @@
+It said to add the scripts from the "linux system administration weeks"?
+You told me to use the scripts from week 4, but there was no scripts, just the submission file. So I threw all the commands into a bash script.
