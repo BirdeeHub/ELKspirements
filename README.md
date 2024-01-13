@@ -1,5 +1,4 @@
 # BirdeeELKproject
-Repo for the module 13 elk stack project: `git@github.com:BirdeeHub/BirdeeELKproject.git`
 
 ## Automated ELK Stack Deployment
 
